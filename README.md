@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Ramimnur20/"><img src="https://github.com/xdearboy/HidakiNuke/blob/main/assets/bomb.png?raw=true" alt="HidakiNuke" width="400"></a>
+  
+  <br>
+  HidakiNuke
+  <br>
+</h1>
 
-<!--
-**Ramimnur20/Ramimnur20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">HidakiNuke - это утилита для быстрого краша дискорд серверов.</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://badge.fury.io/py/discord.py">
+    <img src="https://badge.fury.io/py/discord.py.svg"
+         alt="Gitter">
+  </a>
+  <a href="https://saythanks.io/to/xdearboy">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://t.me/send?start=IVTISEyPdXCn">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
