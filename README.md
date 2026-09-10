@@ -1,28 +1,15 @@
-<h1 data-importer="text" align="center">Voby7</h1>
+Hi there, I'm voby
 
-###
+<a href="https://github.com/Ramimnur20">
+    <img src="https://komarev.com/ghpvc/?username=voby&style=for-the-badge">
+</a>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://count.getloli.com/@:Ramimnur20?theme=gelbooru&padding=8&scale=1.5&align=top&pixelated=1"  />
-</div>
+I'm a B.D.-based developer focused primarily on Python, with hands-on experience across other languages.
+I build and maintain large-scale projects and applications used by hundreds of people every day.
 
-###
+- [ZNE](https://zne.breed.rip): A Discord raider bot serving 250+ unique users everyday, aswell as having over 1.2K+ members
+- [Xrypton](https://xrypton.vercel.app): A discord multipurpose bot
 
-<p data-importer="text" align="center">Developer & Owner of ZNE<br>Professional Vibecoder in discord bots.</p>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
+Contact me:
+- Discord: @v0b2 (not active account)
+- Email: voby@waifu.club
